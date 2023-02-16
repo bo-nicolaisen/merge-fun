@@ -1,3 +1,3 @@
 # merge-fun
 edit fra master
-edit fra super feature
+edit fra main
